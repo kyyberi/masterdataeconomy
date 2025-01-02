@@ -489,6 +489,11 @@ img{
     font-size: 80px;
     color: #FFF;
 }
+.prefer-info h2{
+    text-align: center;
+    color: #FFF;
+}
+
 .prefer-info p{
     text-align: center;
     font-size: 20px;
