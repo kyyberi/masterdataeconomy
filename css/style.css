@@ -361,6 +361,10 @@ p{
     color: #FFF;
     background: #000000;
 }
+.btn-clr-bl2 a{
+    color: #000;
+    background: #C8F31F;
+}
 .top-ber{
     display: flex;
     align-items: center;
