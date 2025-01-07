@@ -456,7 +456,7 @@ img{
 
 #prefer-main{
     display: flex;
-    width: 100%;
+    width: 90%;
     background: #ffffff;
     padding: 100px 0;
     position: relative;
@@ -488,17 +488,17 @@ img{
     color: #FFF;
 }
 .prefer-info h1{
-    text-align: center;
+    
     font-size: 80px;
     color: #FFF;
 }
 .prefer-info h2{
-    text-align: center;
+    
     color: #FFF;
 }
 
 .prefer-info p{
-    text-align: center;
+    
     font-size: 20px;
     color: #FFF;
 }
