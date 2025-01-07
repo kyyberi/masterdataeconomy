@@ -470,7 +470,7 @@ img{
     width: 120px;
 }
 .prefer{
-    text-align: center;
+    
     border-radius: 10px;
 }
 .prefer h2{
@@ -494,12 +494,12 @@ img{
     color: #FFF;
 }
 .prefer-info h2{
-    text-align: center;
+    
     color: #FFF;
 }
 
 .prefer-info p{
-    text-align: center;
+    
     font-size: 20px;
     color: #FFF;
 }
