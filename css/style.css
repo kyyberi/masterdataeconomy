@@ -375,6 +375,7 @@ p{
 }
 .top-info{
     width: 100%;
+    min-height:600px;
 }
 .top-info h2{
     font-size: 30px;
