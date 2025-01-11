@@ -477,6 +477,14 @@
     .footer-box-left{
         width: 100%;
     }
+
+    .footer-box-middle{
+        width: 100%;
+    }
+
+    .footer-box-middle h5{
+        margin-top: 40px;
+    }
     .footer-box-right{
         margin-top: 50px;
         width: 100%;
