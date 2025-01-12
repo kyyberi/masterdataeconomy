@@ -679,7 +679,9 @@ img{
     font-size: 20px;
     color: #FFFFFF;
 }
-
+.footer-left p {
+    color: #717171;
+}
 
 .footer-btm-line-left ul li a i{
   
