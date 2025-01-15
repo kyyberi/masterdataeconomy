@@ -463,6 +463,15 @@ img{
     padding: 100px 0;
     position: relative;
 }
+
+#online-courses{
+    display: flex;
+    width: 100%;
+    background: #ffffff;
+    padding: 100px 0;
+    position: relative;
+}
+
 .arrow-down{
     position: absolute;
     left: 50%;
