@@ -524,6 +524,14 @@ img{
     width: 100%;
     padding: 70px 0;
 }
+
+#courses{
+    display: flex;
+    background: #fff;
+    width: 100%;
+    padding: 70px 0;
+}
+
 .introduction-main{
     margin-left: 0;
     margin-right: 0;
