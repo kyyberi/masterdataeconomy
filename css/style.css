@@ -463,15 +463,6 @@ img{
     padding: 100px 0;
     position: relative;
 }
-
-#online-courses{
-    display: flex;
-    width: 100%;
-    background: #ffffff;
-    padding: 100px 0;
-    position: relative;
-}
-
 .arrow-down{
     position: absolute;
     left: 50%;
@@ -524,14 +515,6 @@ img{
     width: 100%;
     padding: 70px 0;
 }
-
-#courses{
-    display: flex;
-    background: #fff;
-    width: 100%;
-    padding: 70px 0;
-}
-
 .introduction-main{
     margin-left: 0;
     margin-right: 0;
