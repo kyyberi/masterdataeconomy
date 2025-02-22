@@ -825,3 +825,16 @@ img{
   .box-title a{
     color:#7a9900;
   }
+
+  ul.courseitems {
+    color:#000;
+    margin-left: 20px;
+    font-family: "Darker Grotesque", sans-serif;
+  }
+
+  ul.courseitems li {
+    color:#000;
+    font-size:medium;
+    list-style: square;
+    font-family: "Darker Grotesque", sans-serif;
+  }

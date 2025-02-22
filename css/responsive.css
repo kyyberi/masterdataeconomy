@@ -505,4 +505,15 @@
     .arrow-down img {
         width: 98px;
     }
+
+    ul.courseitems {
+        color:#000;
+        margin-left: 20px;
+        
+    }
+    
+    ul.courseitems li {
+        color:#000;
+        list-style: square;
+    }
 }
