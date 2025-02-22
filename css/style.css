@@ -838,3 +838,7 @@ img{
     list-style: square;
     font-family: "Darker Grotesque", sans-serif;
   }
+  hr {
+    border-top: 2px dotted #7a9900;
+    margin-top: 30px;
+  }
